@@ -10,7 +10,7 @@ spring:
     hibernate:
       ddl-auto: update
 jwt:
-  secret: asdfghjklñqwertyuiopzxcvbnmdfgvjebfvjaebfsdjfbsjdbfgjsabfvsjbsjbfvsjbfvshvjhvjhvjhvjhvhjvjhvhljfbvfsljfvbsljfvbjlvbsjlvbs
+  secret: abvfsljfvbsljfvbjlvbsjlvbsdxhsggdasgdhfjgfyigiyfuytdtdytdtydytdytddhdftdftdytdyrdyttdytdtydytdytd
 springdoc:
   api-docs:
     path: /v1/api-docs
